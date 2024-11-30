@@ -18,3 +18,5 @@ finalprojectvideo - Made with Clipchamp.mp4
 *.user
 *.userosscache
 *.sln.docstates
+
+.vs/
